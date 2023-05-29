@@ -1,27 +1,19 @@
 import React from "react";
-import hero from "../images/02-hero-bg.jpg";
+import "../../src/App.css";
 
-const style = {
-        backgroundImage: `url(${hero})`,
-        height: "150px",
-        backgroundRepeat: "no-repeat",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        backgroundSize: "100%",
-        backgroundColor: "rgba(84, 150, 177, 0.493)",
-        backgroundBlendMode: "multiply",
-        marginBottom: "20px",
-      }
+// const linkSize = {
+//     fontSize: "1.5rem"
+// }
 
 function Nav({ currentPage, handlePageChange }) {
   return (
     <div
-      className="header row align-items-center p-3 bg-secondary nav--background"
-      style={style}
+      className="header row align-items-center p-3 bg-secondary hero nav--background"
+      
     >
       {/* NAME HEADER */}
       <div className="col-5">
-        <h1 className="display-5 m-0 p-2 text-light">Luis Robles</h1>
+        <h1>Luis Robles</h1>
       </div>
       {/* NAV LINKS */}
       <div className="col">
@@ -31,7 +23,7 @@ function Nav({ currentPage, handlePageChange }) {
               href="#aboutMe"
               onClick={() => handlePageChange("AboutMe")}
               className={
-                currentPage === "AboutMe" ? "nav-link active" : "nav-link"
+                currentPage === "AboutMe" ? "link active" : "link"
               }
             >
               About Me
@@ -42,7 +34,7 @@ function Nav({ currentPage, handlePageChange }) {
               href="#portfolio"
               onClick={() => handlePageChange("Portfolio")}
               className={
-                currentPage === "Portfolio" ? "nav-link active" : "nav-link"
+                currentPage === "Portfolio" ? "link active" : "link"
               }
             >
               Portfolio
@@ -53,7 +45,7 @@ function Nav({ currentPage, handlePageChange }) {
               href="#resume"
               onClick={() => handlePageChange("Resume")}
               className={
-                currentPage === "Resume" ? "nav-link active" : "nav-link"
+                currentPage === "Resume" ? "link active" : "link"
               }
             >
               Resume
