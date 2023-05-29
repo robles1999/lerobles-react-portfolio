@@ -42,6 +42,8 @@ export default function Portfolio() {
           </div>
         ))}
       </div>
+      {/* Add a spacer div after the last portfolio item */}
+      <div className="spacer"></div>
     </div>
   );
 }

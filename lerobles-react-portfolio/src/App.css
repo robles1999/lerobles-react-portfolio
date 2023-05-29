@@ -75,3 +75,7 @@ h1 {
     text-align: center;
   }
 }
+
+.spacer {
+  height: 20px; /* Adjust the height value to create the desired space */
+}
