@@ -24,7 +24,7 @@ export default function AboutMe() {
           </p>
           <h3>Technical Skills</h3>
           <p>
-            HTML, CSS, JavaScript, SQL, NoSQL, MySQL, MongoDB, Express, Node,
+            HTML, CSS, JavaScript, MySQL, NoSQL, MongoDB, Express, Node,
             EJS, Handlebars, JQuery, Bootstrap, React, GitHub.
           </p>
         </div>
