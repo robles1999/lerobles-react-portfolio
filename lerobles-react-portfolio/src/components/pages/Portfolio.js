@@ -11,7 +11,7 @@ const globe = <FontAwesomeIcon icon={faGlobe} size="lg" />;
 export default function Portfolio() {
   return (
     <div className="p-0 flex-row justify-center">
-      <h3 className="text-center mb-4">Portfolio</h3>
+      <h1 className="text-center mb-4 resume-heading">Portfolio</h1>
       <div className="row flex-row justify-space-between my-4">
         {portfolioData.map((project) => (
           <div key={project.id} className="col-12 col-xl-6">

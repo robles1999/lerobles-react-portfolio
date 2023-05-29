@@ -4,12 +4,12 @@ import image from "../../images/luis-gtr.jpg";
 export default function AboutMe() {
   return (
     <div className="p-3 row">
-      <div className="col-6">
-        <div className="card border-0">
+      <div className="col-md-6">
+        <div className="card border-0 mb-3">
           <img className="rounded-3 border-0" src={image} alt="luis-gtr"></img>
         </div>
       </div>
-      <div className="col-6">
+      <div className="col-md-6">
         <div>
           <p>
             As a passionate and results-oriented full-stack web developer with a
