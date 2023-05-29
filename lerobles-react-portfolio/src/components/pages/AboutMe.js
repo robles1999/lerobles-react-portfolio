@@ -11,6 +11,7 @@ export default function AboutMe() {
       </div>
       <div className="col-md-6">
         <div>
+          {/* ::::: About Me :::::: */}
           <p>
             As a passionate and results-oriented full-stack web developer with a
             web development certificate from the University of Central Florida,
@@ -22,6 +23,7 @@ export default function AboutMe() {
             I am confident in my ability to make a valuable contribution to any
             development team.
           </p>
+          {/* ::::: Skills :::::: */}
           <h3>Technical Skills</h3>
           <p>
             HTML, CSS, JavaScript, MySQL, NoSQL, MongoDB, Express, Node,
@@ -29,7 +31,8 @@ export default function AboutMe() {
           </p>
         </div>
         <div>
-          <h3>Misc. Skills</h3>
+          {/* ::::: Additional Skills :::::: */}
+          <h3>Additional Skills</h3>
           <ul>
             <li>Microsoft Office tools</li>
             <li>Proficient in both Mac and PC platforms</li>
