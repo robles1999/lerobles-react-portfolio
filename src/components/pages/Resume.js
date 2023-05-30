@@ -19,18 +19,18 @@ const Resume = () => {
           src={process.env.PUBLIC_URL + "/resume.pdf"}
           title="Resume"
           width="100%"
-          height="600px"
+          height="800px"
         ></iframe>
       </div>
-      <div style={{ display: "flex", justifyContent: "flex-end" }}>
+      {/* <div style={{ display: "flex", justifyContent: "flex-end" }}>
         <button
           className="btn btn-outline-secondary mt-2"
           onClick={downloadResume}
         >
           Download PDF
         </button>
-      </div>
-      <div className="footer-spacer"></div>
+      </div> */}
+      <div className="spacer"></div>
     
     </div>
   );

@@ -24,7 +24,7 @@ h1 {
   color: aliceblue;
 }
 
-.resume-heading{
+.resume-heading {
   color: black;
   text-align: center;
 }
@@ -80,6 +80,4 @@ h1 {
   height: 20px; /* Adjust the height value to create the desired space */
 }
 
-.footer-spacer{
-  height: 75px;
-}
+
