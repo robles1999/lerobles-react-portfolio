@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lerobles-react-portfolio/static/css/main.c970d41f.css",
+    "main.js": "/lerobles-react-portfolio/static/js/main.ae058933.js",
+    "static/js/787.bff4a7aa.chunk.js": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js",
+    "static/media/02-hero-bg.jpg": "/lerobles-react-portfolio/static/media/02-hero-bg.3f4b8a47f17655a4ac17.jpg",
+    "static/media/luis-gtr.jpg": "/lerobles-react-portfolio/static/media/luis-gtr.6679454707a5b8c58d2e.jpg",
+    "static/media/player-one-reads.png": "/lerobles-react-portfolio/static/media/player-one-reads.2b6b73e829d17cfa175f.png",
+    "static/media/weather-app.jpg": "/lerobles-react-portfolio/static/media/weather-app.9244e9215616ea252a7c.jpg",
+    "static/media/tech-blog.jpg": "/lerobles-react-portfolio/static/media/tech-blog.73925b6435d2dde00cda.jpg",
+    "static/media/heartfelt.jpg": "/lerobles-react-portfolio/static/media/heartfelt.f16dded9aaa7f9a7b5b5.jpg",
+    "static/media/code-quiz.jpg": "/lerobles-react-portfolio/static/media/code-quiz.19ec3cf6a864edcb834f.jpg",
+    "index.html": "/lerobles-react-portfolio/index.html",
+    "main.c970d41f.css.map": "/lerobles-react-portfolio/static/css/main.c970d41f.css.map",
+    "main.ae058933.js.map": "/lerobles-react-portfolio/static/js/main.ae058933.js.map",
+    "787.bff4a7aa.chunk.js.map": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c970d41f.css",
+    "static/js/main.ae058933.js"
+  ]
+}
