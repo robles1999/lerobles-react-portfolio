@@ -80,4 +80,6 @@ h1 {
   height: 20px; /* Adjust the height value to create the desired space */
 }
 
-
+.footer-spacer {
+  height: 50px;
+}

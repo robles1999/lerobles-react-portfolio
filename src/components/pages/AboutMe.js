@@ -26,8 +26,8 @@ export default function AboutMe() {
           {/* ::::: Skills :::::: */}
           <h3>Technical Skills</h3>
           <p>
-            HTML, CSS, JavaScript, MySQL, NoSQL, MongoDB, Express, Node,
-            EJS, Handlebars, JQuery, Bootstrap, React, GitHub.
+            HTML, CSS, JavaScript, MySQL, NoSQL, MongoDB, Express, Node, EJS,
+            Handlebars, JQuery, Bootstrap, React, GitHub.
           </p>
         </div>
         <div>
@@ -44,6 +44,7 @@ export default function AboutMe() {
           </ul>
         </div>
       </div>
+      <div className="footer-spacer"></div>
     </div>
   );
 }
