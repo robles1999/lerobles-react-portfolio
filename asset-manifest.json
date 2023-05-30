@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lerobles-react-portfolio/static/css/main.a10760a8.css",
-    "main.js": "/lerobles-react-portfolio/static/js/main.370d93ff.js",
+    "main.js": "/lerobles-react-portfolio/static/js/main.69a8c576.js",
     "static/js/787.bff4a7aa.chunk.js": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js",
     "static/media/02-hero-bg.jpg": "/lerobles-react-portfolio/static/media/02-hero-bg.3f4b8a47f17655a4ac17.jpg",
     "static/media/luis-gtr.jpg": "/lerobles-react-portfolio/static/media/luis-gtr.6679454707a5b8c58d2e.jpg",
@@ -12,11 +12,11 @@
     "static/media/code-quiz.jpg": "/lerobles-react-portfolio/static/media/code-quiz.19ec3cf6a864edcb834f.jpg",
     "index.html": "/lerobles-react-portfolio/index.html",
     "main.a10760a8.css.map": "/lerobles-react-portfolio/static/css/main.a10760a8.css.map",
-    "main.370d93ff.js.map": "/lerobles-react-portfolio/static/js/main.370d93ff.js.map",
+    "main.69a8c576.js.map": "/lerobles-react-portfolio/static/js/main.69a8c576.js.map",
     "787.bff4a7aa.chunk.js.map": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a10760a8.css",
-    "static/js/main.370d93ff.js"
+    "static/js/main.69a8c576.js"
   ]
 }
