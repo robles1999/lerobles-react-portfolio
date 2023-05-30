@@ -79,3 +79,7 @@ h1 {
 .spacer {
   height: 20px; /* Adjust the height value to create the desired space */
 }
+
+.footer-spacer{
+  height: 75px;
+}
