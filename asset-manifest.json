@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lerobles-react-portfolio/static/css/main.a10760a8.css",
-    "main.js": "/lerobles-react-portfolio/static/js/main.05793e3a.js",
+    "main.js": "/lerobles-react-portfolio/static/js/main.d6dd2e09.js",
     "static/js/787.bff4a7aa.chunk.js": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js",
     "static/media/02-hero-bg.jpg": "/lerobles-react-portfolio/static/media/02-hero-bg.3f4b8a47f17655a4ac17.jpg",
     "static/media/luis-gtr.jpg": "/lerobles-react-portfolio/static/media/luis-gtr.6679454707a5b8c58d2e.jpg",
@@ -10,13 +10,14 @@
     "static/media/tech-blog.jpg": "/lerobles-react-portfolio/static/media/tech-blog.73925b6435d2dde00cda.jpg",
     "static/media/heartfelt.jpg": "/lerobles-react-portfolio/static/media/heartfelt.f16dded9aaa7f9a7b5b5.jpg",
     "static/media/code-quiz.jpg": "/lerobles-react-portfolio/static/media/code-quiz.19ec3cf6a864edcb834f.jpg",
+    "static/media/password-generator.png": "/lerobles-react-portfolio/static/media/password-generator.aa25cbf89939def02f6b.png",
     "index.html": "/lerobles-react-portfolio/index.html",
     "main.a10760a8.css.map": "/lerobles-react-portfolio/static/css/main.a10760a8.css.map",
-    "main.05793e3a.js.map": "/lerobles-react-portfolio/static/js/main.05793e3a.js.map",
+    "main.d6dd2e09.js.map": "/lerobles-react-portfolio/static/js/main.d6dd2e09.js.map",
     "787.bff4a7aa.chunk.js.map": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a10760a8.css",
-    "static/js/main.05793e3a.js"
+    "static/js/main.d6dd2e09.js"
   ]
 }
