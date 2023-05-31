@@ -3,6 +3,7 @@ import playerOneReads from '../../images/player-one-reads.png';
 import techBlog from "../../images/tech-blog.jpg";
 import WeatherApp from "../../images/weather-app.jpg";
 import CodeQuiz from "../../images/code-quiz.jpg";
+import passwordGenerator from "../../images/password-generator.png";
 
 const portfolioData = [
   {
@@ -38,6 +39,13 @@ const portfolioData = [
     gitHub: "https://github.com/robles1999/js-quiz-game",
     deployed: "https://robles1999.github.io/js-quiz-game/",
     image: CodeQuiz,
+    id: 4,
+  },
+  {
+    title: "Password Generator",
+    gitHub: "https://github.com/robles1999/password-challenge-module-3",
+    deployed: "https://robles1999.github.io/password-challenge-module-3/",
+    image: passwordGenerator,
     id: 4,
   },
 ];
