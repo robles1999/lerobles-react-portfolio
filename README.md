@@ -14,3 +14,9 @@ This repository contains the code for my personal portfolio website, built using
 2. Portfolio: Showcases a collection of my projects with descriptions, screenshots, and links to live demos or repositories.
 3. Resume: Displays my resume in an interactive format. Users have the option to view and download the resume as a PDF.
 4. Contact: In the footer you can click on the envelope icon to get in touch with me.
+
+## Technologies
+- HTML
+- CSS
+- React
+- JavaScript
