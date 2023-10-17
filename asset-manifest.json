@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/lerobles-react-portfolio/static/css/main.a10760a8.css",
-    "main.js": "/lerobles-react-portfolio/static/js/main.9cf372de.js",
+    "main.css": "/lerobles-react-portfolio/static/css/main.1241b681.css",
+    "main.js": "/lerobles-react-portfolio/static/js/main.d7aa0134.js",
     "static/js/787.bff4a7aa.chunk.js": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js",
-    "static/media/02-hero-bg.jpg": "/lerobles-react-portfolio/static/media/02-hero-bg.3f4b8a47f17655a4ac17.jpg",
     "static/media/superhero-showdown.png": "/lerobles-react-portfolio/static/media/superhero-showdown.7d6f5ec73b2d36b0c528.png",
     "static/media/luis-gtr.jpg": "/lerobles-react-portfolio/static/media/luis-gtr.6679454707a5b8c58d2e.jpg",
     "static/media/player-one-reads.png": "/lerobles-react-portfolio/static/media/player-one-reads.2b6b73e829d17cfa175f.png",
@@ -13,12 +12,12 @@
     "static/media/code-quiz.jpg": "/lerobles-react-portfolio/static/media/code-quiz.19ec3cf6a864edcb834f.jpg",
     "static/media/password-generator.png": "/lerobles-react-portfolio/static/media/password-generator.aa25cbf89939def02f6b.png",
     "index.html": "/lerobles-react-portfolio/index.html",
-    "main.a10760a8.css.map": "/lerobles-react-portfolio/static/css/main.a10760a8.css.map",
-    "main.9cf372de.js.map": "/lerobles-react-portfolio/static/js/main.9cf372de.js.map",
+    "main.1241b681.css.map": "/lerobles-react-portfolio/static/css/main.1241b681.css.map",
+    "main.d7aa0134.js.map": "/lerobles-react-portfolio/static/js/main.d7aa0134.js.map",
     "787.bff4a7aa.chunk.js.map": "/lerobles-react-portfolio/static/js/787.bff4a7aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a10760a8.css",
-    "static/js/main.9cf372de.js"
+    "static/css/main.1241b681.css",
+    "static/js/main.d7aa0134.js"
   ]
 }
