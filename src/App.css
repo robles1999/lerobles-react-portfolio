@@ -6,7 +6,7 @@
     sans-serif;
 }
 
-.hero {
+/* .hero {
   background-image: url("./images/02-hero-bg.jpg");
   height: 150px;
   background-repeat: no-repeat;
@@ -16,7 +16,7 @@
   background-color: rgba(120, 208, 243, 0.753);
   background-blend-mode: multiply;
   margin-bottom: 20px;
-}
+} */
 
 h1 {
   margin-left: 20px;
@@ -38,12 +38,13 @@ h1 {
 }
 
 .link:hover {
-  color: rgb(24, 190, 190);
+  color: rgb(109, 110, 110);
   transform: scale(1.5);
 }
 
+
 .active {
-  color: rgb(135, 243, 243);
+  color: rgb(49, 230, 230);
 }
 
 .portfolio-item {

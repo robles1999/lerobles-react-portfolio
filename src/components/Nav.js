@@ -3,7 +3,7 @@ import "../../src/App.css";
 
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <div className="header row align-items-center p-3 bg-secondary hero nav--background">
+    <div className="header row align-items-center p-3 bg-dark hero nav--background">
       {/* NAME HEADER */}
       <div className="col-12 col-md-5 text-md-left mb-2 mb-md-0 ml-md-auto">
         <h1 className="text-left text-center-sm">Luis Robles</h1>

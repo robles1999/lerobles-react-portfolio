@@ -22,16 +22,17 @@ const linkedIn = (
 
 export default function Footer() {
   return (
-    <div className="fixed-bottom footer bg-secondary">
+    <div className="fixed-bottom footer ">
       <div>
-        <ul className="nav justify-content-center">
+        <ul className="nav justify-content-center ">
+          <div className="nav justify-content-center bg-secondary rounded">
           <li className="nav-item p-3">
             {/* SET EMAIL LINK */}
-            <a href="mailto: robles1999@gmail.com" target="_blank">
+            <a className="border-left" href="mailto: robles1999@gmail.com" target="_blank">
               {mailIcon}
             </a>
           </li>
-            {/* SET GITHUB LINK */}
+          {/* SET GITHUB LINK */}
           <li className="nav-item p-3">
             <a href="https://github.com/robles1999" target="_blank">
               {gitHub}
@@ -46,6 +47,7 @@ export default function Footer() {
               {linkedIn}
             </a>
           </li>
+          </div>
         </ul>
       </div>
     </div>
