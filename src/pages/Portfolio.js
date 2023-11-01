@@ -1,9 +1,9 @@
 import React from "react";
-import portfolioData from "../data/portfolioData";
+import portfolioData from "../data/portfolioData.js";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGlobe } from "@fortawesome/free-solid-svg-icons";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import "../../App.css";
+import "../App.css";
 
 const gitHub = <FontAwesomeIcon icon={faGithub} size="lg" />;
 const globe = <FontAwesomeIcon icon={faGlobe} size="lg" />;

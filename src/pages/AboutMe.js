@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../images/luis-gtr.jpg";
+import image from "../images/luis-gtr.jpg";
 
 export default function AboutMe() {
   return (

@@ -1,10 +1,10 @@
-import superheroShowdown from '../../images/superhero-showdown.png';
-import heartfelt from '../../images/heartfelt.jpg';
-import playerOneReads from '../../images/player-one-reads.png';
-import techBlog from "../../images/tech-blog.jpg";
-import WeatherApp from "../../images/weather-app.jpg";
-import CodeQuiz from "../../images/code-quiz.jpg";
-import passwordGenerator from "../../images/password-generator.png";
+import superheroShowdown from '../images/superhero-showdown.png';
+import heartfelt from '../images/heartfelt.jpg';
+import playerOneReads from '../images/player-one-reads.png';
+import techBlog from "../images/tech-blog.jpg";
+import WeatherApp from "../images/weather-app.jpg";
+import CodeQuiz from "../images/code-quiz.jpg";
+import passwordGenerator from "../images/password-generator.png";
 
 const portfolioData = [
   {
