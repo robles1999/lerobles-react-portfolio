@@ -10,7 +10,7 @@ const portfolioData = [
   {
     title: "SuperHero Showdown",
     gitHub: "https://github.com/Suzakijun1/Higher-Lower-Game",
-    deployed: "https://sleepy-shore-92951.herokuapp.com/",
+    deployed: "https://hero-showdown.herokuapp.com/",
     image: superheroShowdown,
     id: 0,
   },
@@ -38,7 +38,7 @@ const portfolioData = [
   {
     title: "Weather Dashboard",
     gitHub: "https://github.com/robles1999/weather-forecast-module-6",
-    deployed: "https://robles1999.github.io/weather-forecast-module-6/",
+    deployed: "https://robles1999.github.io/lerobles-weather-forecast/",
     image: WeatherApp,
     id: 4,
   },
